@@ -1,5 +1,6 @@
 # imcore_aes256
 imcore.net에서 공유하던 aes256 암/복호화 라이브러리 소스입니다. 저는 원본 사이트를 못봐서 정확한지 모르겠지만 아래 글이 설명글이였던걸로 생각되어 복사해왔습니다. 이곳에는 sample 파일만 있습니다.
+imcore.net 작성자분에게 감사드립니다. 혹시 삭제 원하시면 알려주세요.
 
 원본링크: http://www.imcore.net/encrypt-decrypt-aes256-c-objective-ios-iphone-ipad-php-java-android-perl-javascript-python/
 
